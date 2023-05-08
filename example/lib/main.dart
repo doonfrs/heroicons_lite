@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:heroicons_lite/heroicons.dart';
+import 'package:heroicons_lite/heroicons_lite.dart';
 
 void main() => runApp(const ExampleApp());
 
