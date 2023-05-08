@@ -1,4 +1,4 @@
-library heroicons;
+library heroicons_lite;
 
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
